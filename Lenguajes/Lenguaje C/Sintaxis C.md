@@ -1,0 +1,3 @@
+- El tipo de anotación es [[camelCase]].
+- Los saltos de línea se realizan con  "\\n".
+- Los espacios y los saltos en línea se ignoran hasta el ";".

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "03e1689a563eced9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da33a9689bfc962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f91071ec912f20ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguajes/Lenguaje C/Variables y tipos de datos C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f6941cc7dd26300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenguajes/Lenguaje C/Funciones en C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17b76861d6ccaaa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "61e303a8985dffa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6073db649b04e54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ab2d61ee13acaf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1c01d054bac413e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58c077c8030334ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba7a46cc6aa145e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a4ae6f8bfb6a943",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lenguajes/Lenguaje C/Funciones en C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "994704b856de7375",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lenguajes/Lenguaje C/Funciones en C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c68bcbc81ff83c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a17362050fae485c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lenguajes/Lenguaje C/Funciones en C.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2f6941cc7dd26300",
+  "lastOpenFiles": [
+    "Lenguajes/Lenguaje C/Funciones en C.md",
+    "Lenguajes/Lenguaje C/Lenguaje C.md",
+    "Lenguajes/Lenguaje C/Variables y tipos de datos C.md",
+    "WEB/HTML.md",
+    "Web.md",
+    "WEB"
+  ]
+}
